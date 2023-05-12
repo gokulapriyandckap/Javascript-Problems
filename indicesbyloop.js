@@ -10,7 +10,7 @@ function sentence(word1,word2,word3){
                 result= result+arr[i]
             }
         }
-        else if(i=2){   
+        else if(i==2){   
         result= result+arr[i]
         }
     }
